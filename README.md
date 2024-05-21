@@ -13,3 +13,5 @@ Este repositório contém materiais e exercícios que usei para realizar o curso
 - Amend, Logs e Reset
 - Branchs, alias e amends
 - Conexão remota com github e versionamento no VsCode
+
+Entender o versionamento de códigos ajuda a manter o controle do software, assim como facilitar a manutenção do mesmo.
